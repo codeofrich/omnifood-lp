@@ -241,6 +241,7 @@ header {
 
 .section-steps {
     background-color: #f4f4f4;
+    padding-bottom: 80px;
 }
 
 .steps-box:first-child {
